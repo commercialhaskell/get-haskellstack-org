@@ -1,4 +1,4 @@
-/stable/* https://github.com/commercialhaskell/stack/releases/download/v2.15.5/stack-2.15.5-:splat
-/upgrade/linux-x86_64-static.tar.gz https://github.com/commercialhaskell/stack/releases/download/v2.15.5/stack-2.15.5-linux-x86_64.tar.gz
-/upgrade/* https://github.com/commercialhaskell/stack/releases/download/v2.15.5/stack-2.15.5-:splat
+/stable/* https://github.com/commercialhaskell/stack/releases/download/v2.15.7/stack-2.15.7-:splat
+/upgrade/linux-x86_64-static.tar.gz https://github.com/commercialhaskell/stack/releases/download/v2.15.7/stack-2.15.7-linux-x86_64.tar.gz
+/upgrade/* https://github.com/commercialhaskell/stack/releases/download/v2.15.7/stack-2.15.7-:splat
 / https://raw.githubusercontent.com/commercialhaskell/stack/stable/etc/scripts/get-stack.sh
