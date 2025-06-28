@@ -1,4 +1,4 @@
-/stable/* https://github.com/commercialhaskell/stack/releases/download/v3.5.1/stack-3.5.1-:splat
-/upgrade/linux-x86_64-static.tar.gz https://github.com/commercialhaskell/stack/releases/download/v3.5.1/stack-3.5.1-linux-x86_64.tar.gz
-/upgrade/* https://github.com/commercialhaskell/stack/releases/download/v3.5.1/stack-3.5.1-:splat
+/stable/* https://github.com/commercialhaskell/stack/releases/download/v3.7.1/stack-3.7.1-:splat
+/upgrade/linux-x86_64-static.tar.gz https://github.com/commercialhaskell/stack/releases/download/v3.7.1/stack-3.7.1-linux-x86_64.tar.gz
+/upgrade/* https://github.com/commercialhaskell/stack/releases/download/v3.7.1/stack-3.7.1-:splat
 / https://raw.githubusercontent.com/commercialhaskell/stack/stable/etc/scripts/get-stack.sh
